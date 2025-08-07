@@ -1,4 +1,4 @@
-#Stocky-Your smart companion for next-day stock price predictions.
+Stocky-Your smart companion for next-day stock price predictions.
 Just feed in the last 60 days of stock prices — Stocky does the thinking so you don’t have to.
 
 📈 Stock Price Prediction using Deep Learning
