@@ -44,12 +44,12 @@ Output: Predicted price for the next day
 
 1. Clone the repository
 
-git clone 
-cd stock-price-prediction
+git clonehttps://github.com/Ayanmohd18/Stocky.git
+cd stocky
 
 2. Install Dependencies
-3. 
-Make sure you have Python 3.8+ installed. Then run:
+
+3.  Make sure you have Python 3.8+ installed. Then run:
 
 pip install -r requirements.txt
 Or install manually:
