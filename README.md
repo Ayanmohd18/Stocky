@@ -44,7 +44,7 @@ Output: Predicted price for the next day
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/stock-price-prediction.git
+git clone 
 cd stock-price-prediction
 
 2. Install Dependencies
